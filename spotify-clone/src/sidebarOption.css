@@ -1,0 +1,14 @@
+.sidebar-option{
+    color: grey;
+    display: flex;
+    align-items: center;
+    height: 40px;
+    cursor: pointer;
+    transition: 200ms color ease-in;
+}
+.sidebar-option:hover{
+    color: white;
+}
+h4{
+    margin-left: 10px;
+}
